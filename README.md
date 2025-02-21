@@ -1,2 +1,1 @@
-# Multivariate-Normal-Random-Deviates
-generate multivariate normal random deviates
+# Multivariate Normal Random Deviates
